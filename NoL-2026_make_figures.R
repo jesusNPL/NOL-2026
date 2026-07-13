@@ -4,7 +4,7 @@
 ##
 ##  Author: Jesús Pinto Ledezma
 ##
-##  Date: 2026-07-28
+##  Date: 2026-07-13
 ##
 ##  Title: First steps in data visualization
 ##
