@@ -260,7 +260,7 @@ anDT %>%
 getwd()
 
 # Save our final figure
-tiff(file = "Downloads/Fig_1_Awesomeness_versus_hostility.tiff", # location where we save the figure
+tiff(file = "Fig_1_Awesomeness_versus_hostility.tiff", # location where we save the figure
      height = 7, 
      width = 7, 
      res = 500, # resolution
@@ -275,7 +275,7 @@ dev.off()
 # Lets us combine every panel and see the evolution of the figure
 
 # Save our final figure
-tiff(file = "Downloads/Fig_2_Evolution_figure.tiff", # location where we save the figure
+tiff(file = "Fig_2_Evolution_figure.tiff", # location where we save the figure
      height = 13, 
      width = 13, 
      res = 500, # resolution
